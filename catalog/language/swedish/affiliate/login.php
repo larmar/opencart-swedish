@@ -18,4 +18,5 @@ $_['entry_password']                = 'Lösenord:';
 
 // Error
 $_['error_login']                   = 'Fel: Fel e-posteadress och/eller lösenord.';
+$_['error_approved']                = 'Varning : Ditt konto kräver godkännande innan du kan logga in .';
 ?>
