@@ -10,10 +10,12 @@ $_['text_forgotten']   = 'Glömt lösenord?';
 $_['text_account']     = 'Mitt konto';
 $_['text_edit']        = 'Ändra konto';
 $_['text_password']    = 'Lösenord';
+$_['text_address']     = 'adressböcker';
 $_['text_wishlist']    = 'Önskelista';
 $_['text_order']       = 'Orderhistorik';
 $_['text_download']    = 'Nerladdningar';
 $_['text_return']      = 'Reklamationer';
 $_['text_transaction'] = 'Transaktioner';
 $_['text_newsletter']  = 'Nyhetsbrev';
+$_['text_recurring']   = 'avbetalningar';
 ?>

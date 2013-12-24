@@ -7,4 +7,5 @@ $_['text_items']    = '%s produkter - %s';
 $_['text_empty']    = 'Din varukorg är tom!';
 $_['text_cart']     = 'Visa/ändra';
 $_['text_checkout'] = 'Kassa';
+$_['text_payment_profile'] = 'Betalningsprofil';
 ?>
