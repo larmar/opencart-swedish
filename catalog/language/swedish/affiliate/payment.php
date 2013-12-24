@@ -13,7 +13,7 @@ $_['text_bank']                 = 'Bank överföring';
 $_['text_success']              = 'Ditt konto har uppdaterats.';
 
 // Entry
-$_['entry_tax']                 = Org.nr:';
+$_['entry_tax']                 = 'Org.nr:';
 $_['entry_payment']             = 'Betlaningsmetod:';
 $_['entry_cheque']              = 'Check mottagarensnamn:';
 $_['entry_paypal']              = 'PayPal Email Account:';
