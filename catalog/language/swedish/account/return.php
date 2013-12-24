@@ -19,10 +19,10 @@ $_['text_customer']      = 'Kund:';
 $_['text_comment']       = 'Kommentar';
 $_['text_history']       = 'Historik';
 $_['text_empty']         = 'Du har inte gjort några tidigare reklamationer/returer!';
-$_['text_error']         = 'Reklamationsärendet du sökte finns inte!';
+$_['text_agree']         = 'Jag har läst och godkänner <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Column
-$_['column_product']        = 'Produktnamn';
+$_['column_product']     = 'Produktnamn';
 $_['column_model']       = 'Art.nr';
 $_['column_quantity']    = 'Antal';
 $_['column_price']       = 'Pris';
@@ -49,6 +49,7 @@ $_['entry_fault_detail'] = 'Bristfällig eller annan anledning:';
 $_['entry_captcha']      = 'Skriv in koden som visas i bilden nedan:';
 
 // Error
+$_['text_error']         = 'Reklamationsärendet du sökte finns inte!';
 $_['error_order_id']     = 'Ordernummer krävs!';
 $_['error_firstname']    = 'Förnamnet måste vara mellan 1 och 32 bokstäver!';
 $_['error_lastname']     = 'Efternamnet måste vara mellan 1 och 32 bokstäver!';
@@ -58,4 +59,5 @@ $_['error_product']      = 'Du måste välja minst en produkt!';
 $_['error_model']        = 'Artikelnummret måste vara mellan 3 och 64 tecken!';
 $_['error_reason']       = 'Du måste välja anledning till reklamation!';
 $_['error_captcha']      = 'Bekräftelse koden matchar inte bilden!';
+$_['error_agree']        = 'Varning : Du måste gå med på %s!';
 ?>

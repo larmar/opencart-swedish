@@ -6,8 +6,8 @@ $_['heading_title'] = 'Min önskelista';
 $_['text_account']  = 'Konto';
 $_['text_instock']  = 'I lager';
 $_['text_wishlist'] = 'Önskelista (%s)';
-$_['text_success']  = 'Klar: Du har lagt till <a href="%s">%s</a> till din <a href="%s">önskelista</a>!';
 $_['text_login']    = 'Du måste <a href="%s">logga in</a> eller <a href="%s">skapa ett konto</a> för att spara <a href="%s">%s</a> till din <a href="%s"> önskelista</a>!';
+$_['text_success']  = 'Klar: Du har lagt till <a href="%s">%s</a> till din <a href="%s">önskelista</a>!';
 $_['text_remove']   = 'Du har ändrat din önskelista!';
 $_['text_empty']    = 'Din önskelista är tom.';
 
