@@ -12,9 +12,11 @@ $_['text_password']      = 'Ändra ditt lösenord';
 $_['text_address']       = 'Ändra din adresslista';
 $_['text_wishlist']      = 'Ändra din önskelista';
 $_['text_order']         = 'Se din orderhistorik';
-$_['text_download']      = 'Nerladdningar';
+$_['text_download']      = 'Nedladdningar';
 $_['text_reward']        = 'Dina bonuspoäng'; 
 $_['text_return']        = 'Se dina retur förfrågningar'; 
 $_['text_transaction']   = 'Dina transaktioner'; 
 $_['text_newsletter']    = 'Prenumerera / avsluta prenumererationen';
+$_['text_recurring']     = 'Återkommande betalningar';
+$_['text_transactions']  = 'Transaktioner';
 ?>
