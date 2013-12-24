@@ -1,15 +1,15 @@
 <?php
 // Heading  
-$_['heading_title']   = 'Varukorg';
+$_['heading_title']          = 'Varukorg';
 
 // Text
-$_['text_success']    = 'Du har lagt <a href="%s">%s</a> i <a href="%s">varukorgen</a>!';
+$_['text_success']           = 'Du har lagt <a href="%s">%s</a> i <a href="%s">varukorgen</a>!';
 $_['text_remove']            = 'Du har ändrat din varukorg!';
 $_['text_coupon']            = 'Din erbjudandekod har registerats!';
 $_['text_voucher']           = 'Ditt presentkort har registrerats!';
-$_['text_reward']     = 'Poäng: %s';
+$_['text_reward']            = 'Poäng: %s';
 $_['text_shipping']          = 'Beräknad frakt har lagts till!';
-$_['text_login']      = 'OBS: Du måste <a href="%s">logga in</a> eller <a href="%s">skapa konto</a> för att se priser!';
+$_['text_login']             = 'OBS: Du måste <a href="%s">logga in</a> eller <a href="%s">skapa konto</a> för att se priser!';
 $_['text_points']            = 'Bonuspoäng: %s';
 $_['text_items']             = '%s produkter - %s';
 $_['text_next']              = 'Vad vill du göra härnäst?';
@@ -21,14 +21,25 @@ $_['text_shipping_estimate'] = 'Beräknad frakt';
 $_['text_shipping_detail']   = 'Fyll i leveransadress för beräknad fraktkostnad.';
 $_['text_shipping_method']   = 'Vänligen välj önskad fraktmetod.';
 $_['text_empty']             = 'Din varukorg är tom!';
+$_['text_until_cancelled']   = 'Tills annuellerad';
+$_['text_recurring_item']    = 'Tterkommande artikel';
+$_['text_payment_profile']   = 'Betalningsprofil';
+$_['text_trial_description'] = '% s varje % d % s ( s ) för % d betalning ( er) sedan';
+$_['text_payment_description'] = '% s varje % d % s ( s ) för % d betalning ( s)';
+$_['text_payment_until_canceled_description'] = '% s varje % d % s ( s ) tills avbokning';
+$_['text_day']               = 'dag';
+$_['text_week']              = 'vecka';
+$_['text_semi_month']        = 'två gånger per månad';
+$_['text_month']             = 'månad';
+$_['text_year']              = 'år';
 
 // Column
-$_['column_image']    = 'Bild';
-$_['column_name']     = 'Produktnamn';
-$_['column_model']    = 'Art.nr';
-$_['column_quantity'] = 'Antal';
-$_['column_price']    = 'Pris';
-$_['column_total']    = 'Total';
+$_['column_image']           = 'Bild';
+$_['column_name']            = 'Produktnamn';
+$_['column_model']           = 'Art.nr';
+$_['column_quantity']        = 'Antal';
+$_['column_price']           = 'Pris';
+$_['column_total']           = 'Total';
 
 // Entry
 $_['entry_coupon']           = 'Skriv in erbjudandekoden här:';
@@ -39,9 +50,9 @@ $_['entry_zone']             = 'Län:';
 $_['entry_postcode']         = 'Postnummer:';
 
 // Error
-$_['error_stock']     = 'Produkter markerade med *** finns det inte tillräckligt många av på lagret just nu.';
-$_['error_minimum']   = 'Minsta order värdet för %s är %s!';	
-$_['error_required']  = '%s krävs!';	
+$_['error_stock']            = 'Produkter markerade med *** finns det inte tillräckligt många av på lagret just nu.';
+$_['error_minimum']          = 'Minsta order värdet för %s är %s!';	
+$_['error_required']         = '%s krävs!';	
 $_['error_product']          = 'Fel: Det finns inga produkter i din varukorg!';	
 $_['error_coupon']           = 'Fel: Erbjudandekoden är antingen fel, gått ut eller redan använd!';
 $_['error_voucher']          = 'Fel: Presenkortskoden är antingen fel eller redan blivit använd!';
@@ -53,4 +64,8 @@ $_['error_country']          = 'Fel: Vänligen välj land!';
 $_['error_zone']             = 'Fel: Vänligen välj län!';
 $_['error_shipping']         = 'Fel: Vänligen välj fraktmetod!';
 $_['error_no_shipping']      = 'Fel: Ingen fraktmetod finns tillgänligt. Vänligen <a href="%s">kontakta oss</a> för hjälp!';
+$_['error_profile_required'] = 'Fel: Välj en betalnings profil!';
+$_['text_trial']             = '% s varje % s % s för % s utbetalningar sedan';
+$_['text_recurring']         = '% s varje % s % s';
+$_['text_length']            = ' för % s betalningar';
 ?>

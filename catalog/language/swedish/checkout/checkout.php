@@ -29,6 +29,16 @@ $_['text_address_existing']          = 'Jag vill använda en befintlig adress';
 $_['text_shipping_method']           = 'Vänligen välj fraktmetod.';
 $_['text_payment_method']            = 'Vänligen välj betalningsmetod.';
 $_['text_comments']                  = 'Lägg till en kommentar till din order';
+$_['text_recurring_item']            = 'återkommande artikel';
+$_['text_payment_profile']           = 'Betalningsprofil';
+$_['text_trial_description']         = '%s varje %d %s (s) för %d betalning (ar) sedan';
+$_['text_payment_description']       = '%s varje %d %s (s) för %d betalning (ar)';
+$_['text_payment_until_canceled_description'] = '%s varje %d %s (s) tills avbokning';
+$_['text_day']                       = 'dag';
+$_['text_week']                      = 'vecka';
+$_['text_semi_month']                = 'två gånger per månad';
+$_['text_month']                     = 'månad';
+$_['text_year']                      = 'år';
 
 // Column
 $_['column_name']                    = 'Produktnamn';
@@ -47,6 +57,9 @@ $_['entry_lastname']                 = 'Efternamn:';
 $_['entry_telephone']                = 'Telefonnummer:';
 $_['entry_fax']                      = 'Faxnummer:';
 $_['entry_company']                  = 'Företag:';
+$_['entry_customer_group']           = 'Typ av företag:';
+$_['entry_company_id']               = 'Företag ID:';
+$_['entry_tax_id']                   = 'Momsregistreringsnummer:';
 $_['entry_address_1']                = 'Address 1:';
 $_['entry_address_2']                = 'Address 2:';
 $_['entry_postcode']                 = 'Postnummer:';
@@ -59,6 +72,7 @@ $_['entry_shipping'] 	             = 'Min leveransadress och fakturaadress är s
 // Error
 $_['error_warning']                  = 'Det blev fel när din order skulle behandlas! Ifall problemet fortsätter vänligen prova en annan betalningsmetod eller kontakta oss <a href="%s">klicka här</a>.';
 $_['error_login']                    = 'Fel: No match for E-Mail Address and/or Password.';
+$_['error_approved']                 = 'Varning : Ditt konto kräver godkännande innan du kan logga in.';
 $_['error_exists']                   = 'Fel: E-Mail Address is already registered!';
 $_['error_firstname']                = 'Förnamnet måste vara mellan 1 och 32 bokstävers!';
 $_['error_lastname']                 = 'Efternamnet måste vara mellan 1 och 32 bokstäver!';
@@ -66,6 +80,9 @@ $_['error_email']                    = 'E-postadressen är inte godkänd!';
 $_['error_telephone']                = 'Telefonnummer måste vara mellan 3 och 32 siffror!';
 $_['error_password']                 = 'Lösenordet måste vara 3 och 20 tecken!';
 $_['error_confirm']                  = 'Lösenord bekräftelsen mathcer inte lösenordet!';
+$_['error_company_id']               = 'Företag ID krävs!';
+$_['error_tax_id']                   = 'Momsregistreringsnummer krävs!';
+$_['error_vat']                      = 'Momsregistreringsnummer är ogiltigt!';
 $_['error_address_1']                = 'Adressen måste vara mellan 3 och 128 tecken!';
 $_['error_city']                     = 'Postorten måste vara mellan 2 och 128 bokstäver!';
 $_['error_postcode']                 = 'Postkoden måste vara mellan 2 och 10 siffor!';
@@ -77,4 +94,7 @@ $_['error_shipping']                 = 'Fel: Du måste välja en fraktmetod!';
 $_['error_no_shipping']              = 'Fel: Ingen fraktmetod är tillgänglig. Vänligen <a href="%s">kontakta oss</a> för hjälp!';
 $_['error_payment']                  = 'Fel: Du måste välja en betalningsmetod!';
 $_['error_no_payment']               = 'Fel: Ingen betalningsmetod är tillgänlig. Vänligen <a href="%s">kontakta oss</a> för hjälp!';
+$_['text_trial']                    = '%s varje %s %s för %s utbetalningar sedan';
+$_['text_recurring']                = '%s varje %s %s';
+$_['text_length']                   = ' för %s betalningar';
 ?>
