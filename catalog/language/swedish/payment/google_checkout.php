@@ -1,6 +1,7 @@
 <?php
 // Entry
-$_['entry_postcode'] = 'Post Code:';
-$_['entry_country']  = 'Country:';
-$_['entry_zone']     = 'Region / State:';
+$_['text_title']     = 'Kreditkort / betalkort (Google Checkout)';
+
+// Error
+$_['error_shipping'] = 'Varning : Leverans metod krävs!';
 ?>

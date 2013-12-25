@@ -1,12 +1,13 @@
 <?php
 // Heading
-$_['heading_title']     = 'Thank you for shopping with %s .... ';
+$_['heading_title']     = 'Tack för att shoppa med %s dig ....';
 
 // Text
-$_['text_title']        = 'Credit Card / Debit Card (WorldPay)';
-$_['text_response']     = 'Response from WorldPay:';
-$_['text_success']      = '... your payment was successfully received.';
-$_['text_success_wait'] = '<b><span style="color: #FF0000">Please wait...</span></b> whilst we finish processing your order.<br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
-$_['text_failure']      = '... Your payment has been cancelled!';
-$_['text_failure_wait'] = '<b><span style="color: #FF0000">Please wait...</span></b><br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';										  
+$_['text_title']        = 'Kreditkort / betalkort ( WorldPay )';
+$_['text_response']     = 'Svar från WorldPay :';
+$_['text_success']      = '... betalningen togs emot .';
+$_['text_success_wait'] = '<b> <span style="color: #FF0000"> Vänta ... </span></b>medan vi avslutar behandla din beställning.<br>Om du inte automatiskt omdirigeras inom 10 sekunder, vänligen klicka <a href="%s">här</a>.';
+$_['text_failure']      = '... Din betalning har avbrutits!';
+$_['text_failure_wait'] = '<b> <span style="color: #FF0000"> Vänta ... </ span></b>Om du inte automatiskt omdirigeras inom 10 sekunder, klicka <a href="%s">här</a>.';
+$_['text_pw_mismatch']  = 'CallbackPW stämmer inte. Order kräver utredning.';
 ?>
