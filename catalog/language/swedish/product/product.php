@@ -18,6 +18,7 @@ $_['text_or']           = '- ELLER -';
 $_['text_reviews']      = '%s recensioner'; 
 $_['text_write']        = 'Skriv en recension';
 $_['text_no_reviews']   = 'Det finns ingen recension på denna produkt.';
+$_['text_on']           = ' på';
 $_['text_note']         = '<span style="color: #FF0000;">OBS:</span> HTML översätts inte!';
 $_['text_share']        = 'Dela';
 $_['text_success']      = 'Tack för din recension. Din recension kommer visas efter godkännande.';
@@ -27,6 +28,15 @@ $_['text_tags']         = 'Tags:';
 $_['text_error']        = 'Produkten kunde inte hittas!';
 
 // Entry
+$_['text_payment_profile'] = 'Betal Profiler';
+$_['text_trial_description'] = '%s varje %d %s (s) för %d betalning (ar) sedan';
+$_['text_payment_description'] = '%s varje %d %s (s) för %d betalning (ar)';
+$_['text_payment_until_canceled_description'] = '%s varje %d %s (s) tills avslutad';
+$_['text_day'] = 'dag';
+$_['text_week'] = 'vecka';
+$_['text_semi_month'] = 'två gånger per månad';
+$_['text_month'] = 'månad';
+$_['text_year'] = 'år';
 $_['entry_name']        = 'Ditt namn:';
 $_['entry_review']      = 'Din recension:';
 $_['entry_rating']      = 'Betyg:';
