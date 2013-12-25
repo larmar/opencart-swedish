@@ -2,7 +2,7 @@
 // Locale
 $_['code']                  = 'sv';
 $_['direction']             = 'ltr';
-$_['date_format_short']     = 'd/m/Y';
+$_['date_format_short']     = 'Y/m/d';
 $_['date_format_long']      = 'l dS F Y';
 $_['time_format']           = 'h:i:s A';
 $_['decimal_point']         = ',';
@@ -31,6 +31,7 @@ $_['button_coupon']         = 'Lös in';
 $_['button_delete']         = 'Ta bort';
 $_['button_download']       = 'Ladda ner';
 $_['button_edit']           = 'Ändra';
+$_['button_filter']         = 'förfina sökning';
 $_['button_new_address']    = 'Ny adress';
 $_['button_change_address'] = 'Ändra adress';
 $_['button_reviews']        = 'Recensioner';

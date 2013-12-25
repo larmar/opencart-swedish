@@ -7,8 +7,12 @@ $_['text_shipping_updated']         = 'Skeppning uppdaterad';
 $_['text_trial']                    = '%s varje %s %s för %s utbetalningar sedan';
 $_['text_recurring']                = '%s varje %s %s';
 $_['text_length']                   = ' för %s betalningar';
+
+// Standard checkout error page
 $_['error_heading_title']           = 'Det uppstod ett fel';
 $_['error_too_many_failures']       = 'Din betalning har misslyckats för många gånger';
+
+// Express confirm page
 $_['express_text_title']            = 'Bekräfta beställning';
 $_['express_button_coupon']         = 'Lägg';
 $_['express_button_confirm']        = 'Bekräfta';

@@ -65,6 +65,7 @@ $_['error_zone']             = 'Fel: Vänligen välj län!';
 $_['error_shipping']         = 'Fel: Vänligen välj fraktmetod!';
 $_['error_no_shipping']      = 'Fel: Ingen fraktmetod finns tillgänligt. Vänligen <a href="%s">kontakta oss</a> för hjälp!';
 $_['error_profile_required'] = 'Fel: Välj en betalnings profil!';
+
 $_['text_trial']             = '% s varje % s % s för % s utbetalningar sedan';
 $_['text_recurring']         = '% s varje % s % s';
 $_['text_length']            = ' för % s betalningar';

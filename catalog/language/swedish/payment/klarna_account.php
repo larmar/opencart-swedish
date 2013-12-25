@@ -24,6 +24,8 @@ $_['entry_street']         = 'Gata:<br/><span Class="help">Observera att leveran
 $_['entry_house_no']       = 'House No:<br/><span Class="help">Ange din husnummer</span>';
 $_['entry_house_ext']      = 'Hus Ext: <br/><span Class="help">Välkommen med ditt hus extra info. T.ex. A, B, C, Röd, Blå. Ect</span>';
 $_['entry_company']        = 'Organisationsnummer:<br/><span class="help">Ange din Företag\'s registreringsnummer</span>';
+
+// Error
 $_['error_deu_terms']      = 'Du måste godkänna Klarna\'s integritetspolicy(Datenschutz)';
 $_['error_address_match']  = 'Fakturerings-och leveransadressermåste matcha om du vill använda Klarnas Betalningar';
 $_['error_network']        = 'Ett fel uppstod vid anslutning till Klarna. Försök igen senare.';

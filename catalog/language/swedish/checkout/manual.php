@@ -23,7 +23,6 @@ $_['error_voucher']     = 'Fel: Presenkortskoden är antingen fel eller redan bl
 $_['error_reward']      = 'Fel: Vänligen skriv in summan av bonuspoäng du önskar använda!';	
 $_['error_points']      = 'Fel: Du har inga bonuspoäng!';
 $_['error_maximum']     = 'Fel: Max antal bonuspoäng som kan användas är %s!';
-
 $_['error_to_name']     = 'Mottagarensnamn måste vara mellan 1 och 64 bokstäver!';
 $_['error_from_name']   = 'Ditt namn måste vara mellan 1 och 64 bokstäver!';
 $_['error_amount']      = 'summan måste vara mellan %s  %s!';

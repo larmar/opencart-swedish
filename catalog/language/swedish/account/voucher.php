@@ -18,7 +18,6 @@ $_['entry_from_email'] = 'Din e-post:';
 $_['entry_theme']      = 'Presentkort Tema :';
 $_['entry_message']    = 'Hälsning:<br /><span class="help">(Valfritt)</span>';
 $_['entry_amount']     = 'Värde:<br /><span class="help">(Värdet måste vara mellan %s och %s)</span>';
-$_['entry_theme']      = 'Presenkorts tema:';
 
 // Error
 $_['error_to_name']    = 'Mottagarens namn måste vara mellan 1 och 64 bokstäver!';

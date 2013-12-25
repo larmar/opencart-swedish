@@ -52,4 +52,3 @@ $_['text_transaction_expired'] = 'Utgånget';
 $_['error_not_cancelled'] = 'Fel: %s';
 $_['error_not_found'] = 'Det gick inte att avbryta profil';
 $_['success_cancelled'] = 'Återkommande betalning har avbrutits';
-?>

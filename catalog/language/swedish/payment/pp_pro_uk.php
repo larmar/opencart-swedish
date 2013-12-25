@@ -7,7 +7,6 @@ $_['text_issue']           = '(for Maestro and Solo cards only)';
 $_['text_wait']            = 'Please wait!';
 
 // Entry
-$_['entry_cc_owner']       = 'Card Owner:';
 $_['entry_cc_type']        = 'Card Type:';
 $_['entry_cc_number']      = 'Card Number:';
 $_['entry_cc_start_date']  = 'Card Valid From Date:';

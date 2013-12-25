@@ -1,4 +1,5 @@
 <?php
+
 $_['paid_on_amazonus_text'] = 'Betalas på Amazon USA';
 $_['shipping_text'] = 'Leverans';
 $_['shipping_tax_text'] = 'Skatt på Frakt';

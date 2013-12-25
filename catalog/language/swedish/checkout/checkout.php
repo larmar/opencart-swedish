@@ -29,6 +29,7 @@ $_['text_address_existing']          = 'Jag vill använda en befintlig adress';
 $_['text_shipping_method']           = 'Vänligen välj fraktmetod.';
 $_['text_payment_method']            = 'Vänligen välj betalningsmetod.';
 $_['text_comments']                  = 'Lägg till en kommentar till din order';
+
 $_['text_recurring_item']            = 'återkommande artikel';
 $_['text_payment_profile']           = 'Betalningsprofil';
 $_['text_trial_description']         = '%s varje %d %s (s) för %d betalning (ar) sedan';
@@ -94,6 +95,7 @@ $_['error_shipping']                 = 'Fel: Du måste välja en fraktmetod!';
 $_['error_no_shipping']              = 'Fel: Ingen fraktmetod är tillgänglig. Vänligen <a href="%s">kontakta oss</a> för hjälp!';
 $_['error_payment']                  = 'Fel: Du måste välja en betalningsmetod!';
 $_['error_no_payment']               = 'Fel: Ingen betalningsmetod är tillgänlig. Vänligen <a href="%s">kontakta oss</a> för hjälp!';
+
 $_['text_trial']                    = '%s varje %s %s för %s utbetalningar sedan';
 $_['text_recurring']                = '%s varje %s %s';
 $_['text_length']                   = ' för %s betalningar';
