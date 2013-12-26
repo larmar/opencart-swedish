@@ -18,5 +18,5 @@ $_['entry_status']        = 'Status:';
 $_['entry_sort_order']    = 'Sorteringsordning:';
 
 // Error
-$_['error_permission'] = 'Varning: Du har inte behörighet att ändra i modulen Butik!';
+$_['error_permission']    = 'Varning: Du har inte behörighet att ändra i modulen Butik!';
 ?>

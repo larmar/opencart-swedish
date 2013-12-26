@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Fri frakt';
+$_['heading_title']    = 'Fraktfritt';
 
 // Text
 $_['text_shipping']    = 'Frakt';

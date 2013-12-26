@@ -38,6 +38,7 @@ $_['entry_status']        = 'Status:';
 
 // Error
 $_['error_permission']    = 'Varning: Du har inte behörighet att ändra i rabatt!';
+$_['error_exists']        = 'Varning: Kupongkod är redan i bruk!';
 $_['error_name']          = 'Rabattnamn måste vara längre än 3 och kortare än 64 tecken!';
 $_['error_code']          = 'Kod måste vara längre än 3 och kortare än 10 tecken!';
 ?>

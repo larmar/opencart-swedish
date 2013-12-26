@@ -1,0 +1,23 @@
+<?php
+$_['lang_heading']                      = 'Föremål import';
+$_['lang_openbay']                      = 'OpenBay Pro';
+$_['lang_page_title']                   = 'OpenBay Pro för eBay';
+$_['lang_ebay']                         = 'eBay';
+$_['lang_btn_return']                   = 'Avkastning';
+$_['lang_sync_import_line1']            = '<strong> Varning! < / strong> Detta kommer att importera alla dina eBay produkter och bygga en kategoristruktur i din butik. Det rekommenderas att du tar bort alla kategorier och produkter innan du kör det här alternativet. <br /> kategoristruktur är från de normala eBay kategorierna, inte din butik kategorier ( om du har en eBay- butik ). Du kan byta namn, ta bort och redigera de importerade kategorierna utan att påverka dina eBay produkter.';
+$_['lang_sync_import_line2']            = 'Det här alternativet använder en hel del samtal till API, en för varje produkt plus 1 extra samtal var 20 objekt.';
+$_['lang_sync_import_line3']            = 'Du måste se till att din server kan ta emot och bearbeta stora POST -datastorlekar. 1000 eBay-objekt är ungefär 40 MB i storlek, måste du räkna ut vad du behöver. Om ditt samtal misslyckas så är det troligt att din inställning är för liten. Din PHP minnesgränsen behöver handla om 128 MB.';
+$_['lang_sync_server_size']             = 'För närvarande servern kan acceptera:';
+$_['lang_sync_memory_size']             = 'Din PHP minnesgränsen:';
+$_['lang_sync_item_description']        = 'Importera artikelbeskrivningar <span class="help"> Detta kommer att importera allt <br /> inklusive HTML, räknare etc < / span >';
+$_['lang_sync_notes_location']          = 'Importera eBay konstaterar att lokaliseringsuppgifter';
+$_['lang_import_ebay_items']            = 'Import eBay objekt';
+$_['lang_import']                       = 'Import';
+$_['lang_error_validation']             = 'Du måste registrera dig för din API- token och aktivera modulen.';
+$_['lang_ajax_import_confirm']          = 'Detta kommer att importera alla dina eBay-objekt som nya produkter, är du säker ? Det går inte att ångra! Se till att du har en säkerhetskopia först!';
+$_['lang_ajax_import_notify']           = 'Din import förfrågan har skickats för bearbetning. En import tar ca 1 timme per 1000 stycken.';
+$_['lang_ajax_load_error']              = 'Det gick inte att ansluta till servern';
+$_['lang_maintenance_fail']             = 'Din butik är i underhållsläge. Import kommer att misslyckas!';
+$_['lang_import_images_msg1']           = 'bilder pågår import / kopiera från eBay. Uppdatera sidan, om antalet inte minskar då';
+$_['lang_import_images_msg2']           = 'klicka här';
+$_['lang_import_images_msg3']           = 'och vänta. Mer information om varför detta hände finns <a href="http://shop.openbaypro.com/index.php?route=information/faq&topic=8_45" target="_blank"> här < / a >';

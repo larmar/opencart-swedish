@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Recensioner';
+$_['heading_title']       = 'Recensioner';
 
 // Text
 $_['text_success']      = 'Klart: Inställningarna har ändrats!';

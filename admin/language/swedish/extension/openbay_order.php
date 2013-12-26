@@ -1,0 +1,21 @@
+<?php
+$_['lang_btn_status']           = 'Ändra status';
+$_['lang_order_channel']        = 'Order Channel';
+$_['lang_confirmed']            = 'order har markerats';
+$_['lang_no_orders']            = 'Inga order valts för uppdatering';
+$_['lang_confirm_title']        = 'Recension bulk statusuppdatering';
+$_['lang_confirm_change_text']  = 'Ändra orderstatus till';
+$_['lang_column_addtional']     = 'Övrig info';
+$_['lang_column_comments']      = 'Kommentarer';
+$_['lang_column_notify']        = 'Meddela';
+$_['lang_carrier']              = 'bärare';
+$_['lang_tracking']             = 'Spårning';
+$_['lang_other']                = 'Annat';
+$_['lang_refund_reason']        = 'pengar tillbaka anledning';
+$_['lang_refund_message']       = 'pengar tillbaka meddelande';
+$_['lang_update']               = 'Uppdatera';
+$_['lang_cancel']               = 'Avbryt';
+$_['lang_e_ajax_1']             = 'En pjäs ordning saknas återbetalning meddelande!';
+$_['lang_e_ajax_2']             = 'En pjäs ordning saknas spårning info!';
+$_['lang_e_ajax_3']             = 'En Amazon order saknas en " Annan Carrier " posten!';
+$_['lang_title_order_update']   = 'Bulk ordning uppdatering';

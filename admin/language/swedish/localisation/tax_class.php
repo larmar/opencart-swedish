@@ -15,10 +15,10 @@ $_['column_action']     = 'Ändra';
 // Entry
 $_['entry_title']       = 'Namn:';
 $_['entry_description'] = 'Beskrivning:';
-$_['entry_geo_zone']    = 'Geozon:';
-$_['entry_based']       = 'Baserat p&aring;:';
-$_['entry_priority']    = 'Prioritet:';
 $_['entry_rate']        = 'Momssats:';
+$_['entry_based']       = 'Baserat p&aring;:';
+$_['entry_geo_zone']    = 'Geozon:';
+$_['entry_priority']    = 'Prioritet:';
 
 // Error
 $_['error_permission']  = 'Varning: Du har inte behörighet att ändra i momsklasser!';

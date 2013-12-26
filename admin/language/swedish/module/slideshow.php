@@ -4,7 +4,7 @@ $_['heading_title']       = 'Bildspel';
 
 // Text
 $_['text_module']         = 'Moduler';
-$_['text_success']     = 'Klart: Inställningarna har ändrats f&ouml; modulen Bildspel!';
+$_['text_success']        = 'Klart: Inställningarna har ändrats f&ouml; modulen Bildspel!';
 $_['text_content_top']    = 'Inneh&aring;ll topp';
 $_['text_content_bottom'] = 'Inneh&aring;ll nederdel';
 $_['text_column_left']    = 'V&auml;nster kolumn';
@@ -19,6 +19,6 @@ $_['entry_status']        = 'Status:';
 $_['entry_sort_order']    = 'Sorteringsordning:';
 
 // Error
-$_['error_permission'] = 'Varning: Du har inte behörighet att ändra i modulen Bildspel!';
-$_['error_image']      = 'Bredd &amp; h&ouml;jd dimensioner kr&auml;vs!';
+$_['error_permission']    = 'Varning: Du har inte behörighet att ändra i modulen Bildspel!';
+$_['error_dimension']     = 'Bredd &amp; h&ouml;jd dimensioner kr&auml;vs!';
 ?>

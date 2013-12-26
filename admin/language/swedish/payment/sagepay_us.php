@@ -3,19 +3,20 @@
 $_['heading_title']      = 'SagePay (US)';
 
 // Text 
-$_['text_payment']       = 'Payment'; 
-$_['text_success']       = 'Success: You have modified SagePay account details!';
+$_['text_payment']       = 'Betalning';
+$_['text_success']       = 'Framgång: Du har ändrat SagePay kontouppgifter!';
 
 // Entry
 $_['entry_merchant_id']  = 'Merchant ID:';
-$_['entry_merchant_key'] = 'Merchant Key:';
-$_['entry_order_status'] = 'Order Status:';
-$_['entry_geo_zone']     = 'Geo Zone:';
+$_['entry_merchant_key'] = 'Säljarnyckel:';
+$_['entry_total']        = 'Summa:<br /><span class="help">Summan en order m&aring;ste uppn&aring; innan denna betalmetod blir valbar.</span>';
+$_['entry_order_status'] = 'Beställningsstatus:';
+$_['entry_geo_zone']     = 'Geo Zon:';
 $_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_sort_order']   = 'Sorteringsordning:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment SagePay!';
-$_['error_merchant_id']  = 'Merchant ID Required!';
-$_['error_merchant_key'] = 'Merchant Key Required!';
+$_['error_permission']   = 'Varning: Du har inte behörighet att ändra betalnings SagePay!';
+$_['error_merchant_id']  = 'Merchant -ID krävs!';
+$_['error_merchant_key'] = 'Säljarnyckel Krävs!';
 ?>

@@ -1,0 +1,23 @@
+<?php
+$_['lang_product_name']                     = 'Produktnamn';
+$_['lang_save']                             = 'Spara';
+$_['lang_cancel']                           = 'Avbryt';
+$_['lang_delete']                           = 'Radera';
+$_['lang_page_title']                       = 'New play.com produkt';
+$_['lang_page_title_edit']                  = 'Redigera play.com produkt';
+$_['lang_product_id']                       = 'Produkt -ID <span class="help"> Inga bindestreck eller mellanslag < / span >';
+$_['lang_product_dispatch_to']              = 'utskick till';
+$_['lang_product_id_type']                  = 'Produkt -ID typ <span class="help"> ISBN kan vara 10 eller 13 kod < / span >';
+$_['lang_price_uk']                         = 'Pris till Storbritannien <span class="help"> Inkluderar all sjöfart och skatter < / span >';
+$_['lang_price_euro']                       = 'Pris till Europa <span class="help"> Inkluderar all sjöfart och skatter < / span >';
+$_['lang_quantity']                         = 'Mängd';
+$_['lang_condition']                        = 'skick';
+$_['lang_comment']                          = 'Kommentar';
+$_['lang_product_dispatch_fr']              = 'Dispatch Från';
+$_['lang_text_success']                     = 'Din produkt har lagts till';
+$_['lang_text_success_updated']             = 'Din produkt kommer att uppdateras på Play.com marknaden på nästa uppdatering';
+$_['lang_text_success_deleted']             = 'Din produkt kommer att tas bort från Play.com marknadsplats på nästa uppdatering';
+$_['lang_error_min_price']                  = 'SEK pris måste vara £ 0,98 eller mer, och upp till £ 3000';
+$_['lang_error_max_price']                  = 'SEK pris måste vara £ 0,98 eller mer, och upp till £ 3000';
+$_['lang_error_min_price_eu']               = 'EURO pris måste vara 1,59 € eller mer, och upp till € 5000';
+$_['lang_error_max_price_eu']               = 'SEK pris skall vara 1,59 € eller mer, och upp till € 5000';

@@ -13,11 +13,10 @@ $_['text_all_status']   = 'Alla';
 $_['column_date_start'] = 'Startdatum';
 $_['column_date_end']   = 'Slutdatum';
 $_['column_returns']    = 'Antal returer';
-$_['column_products']   = 'Antal produkter';
 
 // Entry
-$_['entry_status']      = 'Status:';
 $_['entry_date_start']  = 'Startdatum:';
 $_['entry_date_end']    = 'Slutdatum:';
 $_['entry_group']       = 'Gruppera efter:';
+$_['entry_status']      = 'Status:';
 ?>

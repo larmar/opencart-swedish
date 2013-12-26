@@ -18,8 +18,8 @@ $_['column_tax']        = 'Moms';
 $_['column_total']      = 'Totalt';
 
 // Entry
-$_['entry_status']      = 'Status:';
 $_['entry_date_start']  = 'Startdatum:';
 $_['entry_date_end']    = 'Slutdatum:';
 $_['entry_group']       = 'Gruppera efter:';
+$_['entry_status']      = 'Status:';
 ?>

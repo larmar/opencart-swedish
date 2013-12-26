@@ -17,6 +17,7 @@ $_['entry_hash']         = 'MD5 Hash:';
 $_['entry_server']       = 'Transaction Server:';
 $_['entry_mode']         = 'Transaction Mode:';
 $_['entry_method']       = 'Transaction Method:';
+$_['entry_total']        = 'Totalt:<br /><span Class="help">Order summan som måste uppnås innan denna metod blir aktiv</span>';
 $_['entry_order_status'] = 'Order Status:';
 $_['entry_geo_zone']     = 'Geo Zone:'; 
 $_['entry_status']       = 'Status:';
@@ -26,5 +27,4 @@ $_['entry_sort_order']   = 'Sort Order:';
 $_['error_permission']   = 'Warning: You do not have permission to modify payment Authorize.Net (SIM)!';
 $_['error_login']        = 'Login ID Required!';
 $_['error_key']          = 'Transaction Key Required!';
-$_['error_hash']         = 'MD5 Hash Required!';
 ?>

@@ -3,20 +3,21 @@
 $_['heading_title']      = 'Perpetual Payments';
 
 // Text 
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified Perpetual Payments account details!';
+$_['text_payment']       = 'Betalning';
+$_['text_success']       = 'Framgång: Du har ändrat Eviga betalningar kontouppgifter!';
 
 // Entry
-$_['entry_auth_id']      = 'Authorization ID:';
-$_['entry_auth_pass']    = 'Authorization Password:';
-$_['entry_test']         = 'Test Mode:<span class="help">Use this module in Test (YES) or Production mode (NO)?</span>';
-$_['entry_order_status'] = 'Order Status:';
-$_['entry_geo_zone']     = 'Geo Zone:';
+$_['entry_auth_id']      = 'Bemyndigande ID:';
+$_['entry_auth_pass']    = 'Bemyndigande Lösenord:';
+$_['entry_test']         = 'Testläge: ? <span Class="help"> Använd denna modul i test ( JA ) eller Produktionsläge ( NO ) < / span >';
+$_['entry_total']        = 'Summa:<br /><span class="help">Summan en order m&aring;ste uppn&aring; innan denna betalmetod blir valbar.</span>';
+$_['entry_order_status'] = 'Beställningsstatus:';
+$_['entry_geo_zone']     = 'Geo Zon:';
 $_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_sort_order']   = 'Sorteringsordning:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment Perpetual Payments!';
-$_['error_auth_id']      = 'Authorization ID Required!'; 
-$_['error_auth_pass']    = 'Authorization Password Required!'; 
+$_['error_permission']   = 'Varning: Du har inte behörighet att ändra betalnings Eviga betalningar!';
+$_['error_auth_id']      = 'Bemyndigande ID krävs!';
+$_['error_auth_pass']    = 'Bemyndigande Lösenord krävs!';
 ?>

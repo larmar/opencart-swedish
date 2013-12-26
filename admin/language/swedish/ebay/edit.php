@@ -1,0 +1,32 @@
+<?php
+$_['lang_title']                    = 'OpenBay Pro';
+$_['lang_page_title']               = 'Revidera eBay notering';
+$_['lang_home']                     = 'Start';
+$_['lang_save']                     = 'Spara';
+$_['lang_ebay']                     = 'eBay';
+$_['lang_pageaction']               = 'revidera notering';
+$_['lang_view']                     = 'Se notering';
+$_['lang_remove']                   = 'Ta bort länk';
+$_['lang_end']                      = 'End förteckningen';
+$_['lang_cancel']                   = 'Avbryt';
+$_['lang_loading']                  = 'Att få artikelinformation från eBay';
+$_['lang_retry']                    = 'Försök igen';
+$_['lang_error_loading']            = 'Det uppstod ett fel få informationen från eBay';
+$_['lang_saved']                    = 'Notering har sparats';
+$_['lang_tbl_title']                = 'Titel';
+$_['lang_tbl_price']                = 'Pris <span class="help"> Inkluderar skatt < / span >';
+$_['lang_tbl_qty_instock']          = 'Lokal lagernivå <span class="help"> Detta är den nivå av lager på i Opencart < / span >';
+$_['lang_tbl_qty_listed']           = 'Kvantitet på eBay <span class="help"> Detta är den nuvarande nivån på lager på eBay < / span >';
+$_['lang_tbl_qty_reserve']          = 'Reserv nivå <span class="help"> Detta är den högsta nivån för lager på eBay ( 0 = inget reservationsgräns) < / span >';
+$_['lang_alert_removed']            = 'Noteringen har olänkad';
+$_['lang_alert_ended']              = 'Noteringen har upphört på eBay';
+$_['lang_confirm']                  = 'Är du säker ?';
+
+$_['lang_stock_matrix']             = 'Stock matris';
+$_['lang_stock_col_qty_total']      = 'i lager';
+$_['lang_stock_col_qty']            = 'För att lista';
+$_['lang_stock_col_qty_reserve']    = 'Reserverat';
+$_['lang_stock_col_comb']           = 'Kombination';
+$_['lang_stock_col_price']          = 'Pris';
+$_['lang_stock_col_enabled']        = 'aktiverat';
+$_['lang_qty']                      = 'Mängd att lista <span class="help"> Ange ett lägre belopp om du vill behålla en lägre lagernivå på eBay < / span >';

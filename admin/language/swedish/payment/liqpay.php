@@ -12,6 +12,7 @@ $_['text_card']          = 'Credit Card';
 $_['entry_merchant']     = 'Merchant ID:';
 $_['entry_signature']    = 'Signature:';
 $_['entry_type']         = 'Type:';
+$_['entry_total']        = 'Summa:<br /><span class="help">Summan en order m&aring;ste uppn&aring; innan denna betalmetod blir valbar.</span>';
 $_['entry_order_status'] = 'Order Status:';
 $_['entry_geo_zone']     = 'Geo Zone:';
 $_['entry_status']       = 'Status:';

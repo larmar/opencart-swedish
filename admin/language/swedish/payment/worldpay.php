@@ -3,24 +3,25 @@
 $_['heading_title']      = 'WorldPay';
 
 // Text 
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified WorldPay account details!';
-$_['text_successful']    = 'On - Always Successful';
-$_['text_declined']      = 'On - Always Declined';
-$_['text_off']           = 'Off';
+$_['text_payment']       = 'Betalning';
+$_['text_success']       = 'Framgång: Du har ändrat WorldPays kontouppgifter!';
+$_['text_successful']    = 'On - Alltid framgångsrik';
+$_['text_declined']      = 'On - Alltid Avvisad';
+$_['text_off']           = 'off';
       
 // Entry
 $_['entry_merchant']     = 'Merchant ID:';
-$_['entry_password']     = 'Payment Response password:<br /><span class="help">This has to be set in the WordPay control panel.</span>';
-$_['entry_callback']     = 'Relay Response URL:<br /><span class="help">This has to be set in the WordPay control panel. You will also need to check the "Enable the Shopper Response".</span>';
-$_['entry_test']         = 'Test Mode:';
-$_['entry_order_status'] = 'Order Status:';
-$_['entry_geo_zone']     = 'Geo Zone:';
+$_['entry_password']     = 'Betalning Response Lösenord:. <br /> <span Class="help"> Detta måste ställas in i WordPay kontrollpanel < / span >';
+$_['entry_callback']     = 'Relä Response URL: <br /> <span class="help"> Detta måste ställas in i WordPay kontrollpanel. Du måste också kontrollera " Aktivera Shopper Response ". < / Span >';
+$_['entry_test']         = 'Testläge:';
+$_['entry_total']        = 'Summa:<br /><span class="help">Summan en order m&aring;ste uppn&aring; innan denna betalmetod blir valbar.</span>';
+$_['entry_order_status'] = 'Beställningsstatus:';
+$_['entry_geo_zone']     = 'Geo Zon:';
 $_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_sort_order']   = 'Sorteringsordning:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment WorldPay!';
-$_['error_merchant']     = 'Merchant ID Required!';
-$_['error_password']     = 'Password Required!';
+$_['error_permission']   = 'Varning: Du har inte behörighet att ändra betalnings WorldPay!';
+$_['error_merchant']     = 'Merchant -ID krävs!';
+$_['error_password']     = 'Lösenord krävs!';
 ?>

@@ -16,7 +16,7 @@ $_['column_total']          = 'Summa';
 $_['column_action']         = '&Aring;tg&auml;rd';
 
 // Entry
-$_['entry_date_start']  = 'Fr&aring;n datum:';
-$_['entry_date_end']    = 'Till datum:';
-$_['entry_status']      = 'Orderstatus:';
+$_['entry_date_start']      = 'Fr&aring;n datum:';
+$_['entry_date_end']        = 'Till datum:';
+$_['entry_status']          = 'Orderstatus:';
 ?>

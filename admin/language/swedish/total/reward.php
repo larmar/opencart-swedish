@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Bonuspo&auml;ng';
+$_['heading_title']    = 'Lojalitetspoäng';
 
 // Text
 $_['text_total']       = 'Ordersammanställning';

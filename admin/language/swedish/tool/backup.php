@@ -12,5 +12,6 @@ $_['entry_backup']     = 'Säkerhetskopiera:';
 
 // Error
 $_['error_permission'] = 'Varning: Du har inte behörighet att ändra i säkerhetskopiera / återställ!';
+$_['error_backup']     = 'Varning: Du måste välja minst ett bord för att säkerhetskopiera!';
 $_['error_empty']      = 'Varning: Filen du laddade upp var tom!';
 ?>

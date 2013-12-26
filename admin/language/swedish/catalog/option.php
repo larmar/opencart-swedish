@@ -28,7 +28,7 @@ $_['column_action']       = '&Aring;tg&auml;rd';
 // Entry
 $_['entry_name']         = 'Alternativnamn:';
 $_['entry_type']         = 'Typ:';
-$_['entry_value']        = 'Alternativv&auml;rdesnamn:';
+$_['entry_option_value'] = 'Alternativv&auml;rdesnamn:';
 $_['entry_image']        = 'Bild:';
 $_['entry_sort_order']   = 'Sortering:';
 

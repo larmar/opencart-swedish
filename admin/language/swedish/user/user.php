@@ -25,6 +25,7 @@ $_['entry_captcha']    = 'Skriv in koden i rutan nedan:';
 // Error
 $_['error_permission'] = 'Varning: Du har inte behörighet att ändra i användare!';
 $_['error_account']    = 'Varning: Du kan inte radera ditt eget konto!';
+$_['error_exists']     = 'Varning: Användarnamn används redan!';
 $_['error_username']   = 'Användarnamn måste vara längre än 3 och kortare än 20 tecken!';
 $_['error_password']   = 'Lösenord måste vara längre än 3 och kortare än 20 tecken!';
 $_['error_confirm']    = 'Lösenordsbekräftelsen matchar ej!';

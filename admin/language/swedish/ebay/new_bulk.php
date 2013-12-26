@@ -1,0 +1,43 @@
+<?php
+$_['lang_page_title']               = 'Bulk notering';
+
+$_['lang_cancel']                   = 'Avbryt';
+$_['lang_none']                     = 'Inget';
+$_['lang_preview']                  = 'Förhandsgranska';
+$_['lang_pixels']                   = 'Pixlar';
+$_['lang_yes']                      = 'Ja';
+$_['lang_no']                       = 'Ingen';
+$_['lang_add']                      = 'Lägg';
+$_['lang_remove']                   = 'Ta bort';
+$_['lang_save']                     = 'Spara';
+$_['lang_other']                    = 'Annat';
+$_['lang_select']                   = 'Välj';
+
+$_['lang_profile_theme']            = 'Tema Profil:';
+$_['lang_profile_shipping']         = 'Sjöfartsprofil:';
+$_['lang_profile_returns']          = 'Returer profil:';
+$_['lang_profile_generic']          = 'Generic profil:';
+$_['lang_condition']                = 'skick:';
+$_['lang_duration']                 = 'Varaktighet:';
+$_['lang_category']                 = 'Kategori:';
+$_['lang_preview_all']              = 'verifiera alla';
+$_['lang_error_variants']           = 'Objekt med variationer kan inte bulk noterade och har varit omarkerad';
+$_['lang_error_stock']              = 'Vissa objekt är inte i lager och har tagits bort';
+$_['lang_exists']                   = 'Vissa objekt redan är noterade på eBay så har tagits bort';
+$_['lang_error_count']              = 'Du har valt % s objekt, det kan ta ett tag att bearbeta dina data';
+$_['lang_error_ship_profile']       = 'Du måste ha en standardleveransprofilinrättat';
+$_['lang_error_generic_profile']    = 'Du måste ha en standard generisk profil inrättat';
+$_['lang_error_return_profile']     = 'Du måste ha en standardavkastningsprofilinrättat';
+$_['lang_error_theme_profile']      = 'Du måste ha ett standardtema profil inrättat';
+$_['lang_verifying']                = 'Verifiera objekt';
+$_['lang_processing']               = 'Processing <span id="activeItems"> < / span> objekt';
+$_['lang_listed']                   = 'Punkt listade! ID:';
+$_['lang_view']                     = 'Se notering';
+$_['lang_error_no_product']         = 'Det finns ingen stödberättigade produkter som valts för att använda massuppläggning funktionen';
+$_['lang_ajax_confirm_listing']     = 'Är du säker på att du vill masslistandessa maskiner?';
+$_['lang_bulk_plan_error']          = 'Din nuvarande plan inte tillåter massuppläggningar, uppgradera din plan <a href="%s"> här < / a >';
+$_['lang_item_limit']               = 'Du kan inte lista dessa artiklar som du skulle överskrida din plan gräns, uppgradera din plan <a href="%s"> här < / a >';
+$_['lang_search_text']              = 'Skriv några söktext';
+$_['lang_catalog_no_products']      = 'Inga katalogartiklar har hittats';
+$_['lang_search_failed']            = 'Sök misslyckades';
+$_['lang_esc_key']                  = 'Stänk sidan har gömt men kanske inte har laddats klart';

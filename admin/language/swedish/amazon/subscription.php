@@ -1,0 +1,23 @@
+<?php
+$_['lang_title']                    = 'OpenBay Pro för Amazon | Mitt konto';
+$_['lang_my_account']               = 'Mitt konto';
+$_['lang_openbay']                  = 'OpenBay Pro';
+$_['lang_overview']                 = 'Amazon Översikt';
+$_['lang_my_account']               = 'Mitt konto';
+$_['lang_btn_return']               = 'Avbryt';
+$_['lang_current_plan']             = 'nuvarande plan';
+$_['lang_register_invite']          = 'Inte har de meriter ? Registrera dig nu för att få dem';
+$_['lang_register']                 = 'registrera';
+$_['lang_loading']                  = 'Loading';
+$_['lang_change_plans']             = 'ändra planer';
+$_['lang_your_plan']                = 'Din nuvarande plan och saldo';
+$_['lang_change_plan']              = 'Ändra planen';
+$_['lang_change_plans_help']        = 'Inte nöjd med din nuvarande planen ?';
+$_['lang_name']                     = 'Namn';
+$_['lang_description']              = 'Beskrivning';
+$_['lang_price']                    = 'Pris';
+$_['lang_order_frequency']          = 'Order import frekvens';
+$_['lang_product_listings']         = 'Nya produktlistningarper månad';
+$_['lang_listings_remaining']       = 'Produktlistor återstående';
+$_['lang_listings_reserved']        = 'Produkter som bearbetas';
+$_['lang_account_status']           = 'Kontostatus';

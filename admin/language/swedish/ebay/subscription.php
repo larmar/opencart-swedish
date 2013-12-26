@@ -1,0 +1,22 @@
+<?php
+$_['lang_heading']              = 'Prenumeration';
+$_['lang_openbay']              = 'OpenBay Pro';
+$_['lang_ebay']                 = 'eBay';
+$_['lang_page_title']           = 'OpenBay Pro för eBay';
+$_['lang_error_validation']     = 'Du måste registrera dig för din API- token och aktivera modulen.';
+$_['lang_btn_return']           = 'Avkastning';
+$_['lang_load']                 = 'Uppdatera';
+$_['lang_usage_title']          = 'Användning';
+$_['lang_subscription_current'] = 'nuvarande plan';
+$_['lang_subscription_avail']   = 'Tillgängliga planer';
+$_['lang_subscription_avail1']  = 'Ändra planer kommer att vara omedelbar och oanvända samtal kommer inte att krediteras.';
+$_['lang_subscription_avail2']  = 'För att nedgradera till den grundläggande planen vänligen avboka din aktiva prenumeration i PayPal.';
+$_['lang_ajax_acc_load_plan']   = 'PayPal prenumeration ID:';
+$_['lang_ajax_acc_load_plan2']  = ', Bör du avbryta alla andra abonnemang från oss';
+$_['lang_ajax_acc_load_text1']  = 'Plan namn';
+$_['lang_ajax_acc_load_text2']  = 'Anrops gräns';
+$_['lang_ajax_acc_load_text3']  = 'Pris ( p / månad)';
+$_['lang_ajax_acc_load_text4']  = 'Beskrivning';
+$_['lang_ajax_acc_load_text5']  = 'nuvarande plan';
+$_['lang_ajax_acc_load_text6']  = 'Byt till planen';
+$_['lang_ajax_load_error']      = 'Tyvärr inte kunde få ett svar. Försök senare.';

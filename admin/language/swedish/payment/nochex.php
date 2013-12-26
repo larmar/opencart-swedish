@@ -15,6 +15,7 @@ $_['entry_account']      = 'Account Type:';
 $_['entry_merchant']     = 'Merchant ID:';
 $_['entry_template']     = 'Pass Template:';
 $_['entry_test']         = 'Test:';
+$_['entry_total']        = 'Summa:<br /><span class="help">Summan en order m&aring;ste uppn&aring; innan denna betalmetod blir valbar.</span>';
 $_['entry_order_status'] = 'Order Status:';
 $_['entry_geo_zone']     = 'Geo Zone:';
 $_['entry_status']       = 'Status:';

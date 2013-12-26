@@ -3,22 +3,22 @@
 $_['heading_title']      = 'PSIGate';
 
 // Text 
-$_['text_payment']       = 'Payment'; 
-$_['text_success']       = 'Success: You have modified PSIGate account details!';
+$_['text_payment']       = 'Betalning';
+$_['text_success']       = 'Framgång: Du har ändrat PSIGate kontouppgifter!';
 
 // Entry
 $_['entry_merchant']     = 'Merchant ID:';
-$_['entry_password']     = 'Passphrase:';
+$_['entry_password']     = 'lösenordsfras:';
 $_['entry_gateway']      = 'Gateway URL:';
-$_['entry_test']         = 'Test Mode:';
-$_['entry_order_status'] = 'Order Status:';
-$_['entry_geo_zone']     = 'Geo Zone:';
+$_['entry_test']         = 'Testläge:';$$_['entry_total']        = 'Summa:<br /><span class="help">Summan en order m&aring;ste uppn&aring; innan denna betalmetod blir valbar.</span>';
+$_['entry_order_status'] = 'Beställningsstatus:';
+$_['entry_geo_zone']     = 'Geo Zon:';
 $_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_sort_order']   = 'Sorteringsordning:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment PSIGate!';
-$_['error_merchant']     = 'Merchant Required!';
-$_['error_password']     = 'Passphrase Required!';
-$_['error_gateway']      = 'Gateway URL Required!';
+$_['error_permission']   = 'Varning: Du har inte behörighet att ändra betalnings PSIGate!';
+$_['error_merchant']     = 'Merchant Krävs!';
+$_['error_password']     = 'Lösenfras krävs!';
+$_['error_gateway']      = 'Gateway URL krävs!';
 ?>

@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']      = 'Citylink';
+$_['heading_title']    = 'Citylink';
 
 // Text
-$_['text_shipping']      = 'Shipping';
-$_['text_success']       = 'Success: You have modified Citylink shipping!';
+$_['text_shipping']    = 'Leverans';
+$_['text_success']     = 'Framgång: Du har ändrat Citylink frakt!';
 
 // Entry
-$_['entry_rate']         = 'Citylink Rates:<br /><span class="help">Enter values upto 5,2 decimal places. (12345.67) Example: .1:1,.25:1.27 - Weights less than or equal to 0.1Kg would cost &pound;1.00, Weights less than or equal to 0.25g but more than 0.1Kg will cost 1.27. Do not enter KG or symbols.</span>';
-$_['entry_tax']          = 'Tax Class:';
-$_['entry_geo_zone']     = 'Geo Zone:';
-$_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_rate']       = 'Citylink Priser: <br /> <span class="help"> Ange värden upp till 5,2 decimaler. ( 12345,67 ) Exempel:.1:1,.25:1.27 - Vikter mindre än eller lika med 0,1 kg skulle kosta £ 1,00, vikter mindre än eller lika med 0,25 g men mer än 0,1 kg kostar 1,27. Gå inte in i KG eller symboler. < / Span >';
+$_['entry_tax_class']  = 'Tax Class:';
+$_['entry_geo_zone']   = 'Geo Zon:';
+$_['entry_status']     = 'Status:';
+$_['entry_sort_order'] = 'Sorteringsordning:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Citylink shipping!';
+$_['error_permission'] = 'Varning: Du har inte behörighet att ändra Citylink frakt!';
 ?>

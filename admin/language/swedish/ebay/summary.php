@@ -1,0 +1,23 @@
+<?php
+$_['lang_heading']              = 'eBay Översikt';
+$_['lang_openbay']              = 'OpenBay Pro';
+$_['lang_ebay']                 = 'eBay';
+$_['lang_btn_return']           = 'Avkastning';
+$_['lang_use_desc']             = 'Det här är ditt eBay-konto sammanfattande sida. Det är en snabb överblick av eventuella gränserna för ditt konto tillsammans med din DSR säljande prestanda.';
+$_['lang_load']                 = 'Uppdatera';
+$_['lang_limits_heading']       = 'försälja gränser';
+$_['lang_error_validation']     = 'Du måste registrera dig för din API- token och aktivera modulen.';
+$_['lang_ajax_load_error']      = 'Ledsen, anslutningen till servern misslyckades';
+$_['lang_ebay_limit_head']      = 'Din eBay-konto har sälja gränser!';
+$_['lang_ebay_limit_t1']        = 'Du kan sälja';
+$_['lang_ebay_limit_t2']        = 'mer objekt ( detta är den totala mängden artiklar, inte enskilda listor ) till ett värde av';
+$_['lang_ebay_limit_t3']        = 'När du försöker skapa nya listor, kommer att misslyckas om du överskrider beloppen ovan.';
+$_['lang_as_described']         = 'Punkt som beskrivs';
+$_['lang_communication']        = 'Kommunikation';
+$_['lang_shippingtime']         = 'Leverans tid';
+$_['lang_shipping_charge']      = 'Fraktkostnader';
+$_['lang_score']                = 'Betyg';
+$_['lang_count']                = 'Count';
+$_['lang_report_30']            = '30 dagar';
+$_['lang_report_52']            = '52 veckor';
+$_['lang_title_dsr']            = 'DSR rapporter';

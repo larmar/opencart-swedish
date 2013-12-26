@@ -13,5 +13,5 @@ $_['column_sort_order'] = 'Sorteringsordning';
 $_['column_action']     = 'Ändra';
 
 // Error
-$_['error_permission']       = 'Varning: Du har inte behörighet att ändra i Betalning!';
+$_['error_permission']  = 'Varning: Du har inte behörighet att ändra i Betalning!';
 ?>
