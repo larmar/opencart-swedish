@@ -17,7 +17,7 @@ $_['text_returning_customer']        = 'Återkommande kund';
 $_['text_checkout']                  = 'Kassa val:';
 $_['text_i_am_returning_customer']   = 'Jag är en återkommande kund';
 $_['text_register']                  = 'Skapa konto';
-$_['text_guest']                     = 'Gästkassa';
+$_['text_guest']                     = 'Handla som Gäst';
 $_['text_register_account']          = 'Genom att skapa ett konto har du möjligheten att shoppa snabbare i framtiden även kunna se order status, se tidigare lagda ordrar och välja att prenumera på nyhetsbrev.';
 $_['text_forgotten']                 = 'Glömt lösenord?';
 $_['text_your_details']              = 'Dina personliga detaljer';
@@ -59,7 +59,7 @@ $_['entry_telephone']                = 'Telefonnummer:';
 $_['entry_fax']                      = 'Faxnummer:';
 $_['entry_company']                  = 'Företag:';
 $_['entry_customer_group']           = 'Typ av företag:';
-$_['entry_company_id']               = 'Företag ID:';
+$_['entry_company_id']               = 'Organisationsnummer:';
 $_['entry_tax_id']                   = 'Momsregistreringsnummer:';
 $_['entry_address_1']                = 'Address 1:';
 $_['entry_address_2']                = 'Address 2:';
@@ -68,7 +68,7 @@ $_['entry_city']                     = 'Postort:';
 $_['entry_country']                  = 'Land:';
 $_['entry_zone']                     = 'Län:';
 $_['entry_newsletter']               = 'Prenumera på %s nyhetsbrev.';
-$_['entry_shipping'] 	             = 'Min leveransadress och fakturaadress är samma.';
+$_['entry_shipping'] 	             = 'Min faktura- och leveransadress är samma.';
 
 // Error
 $_['error_warning']                  = 'Det blev fel när din order skulle behandlas! Ifall problemet fortsätter vänligen prova en annan betalningsmetod eller kontakta oss <a href="%s">klicka här</a>.';

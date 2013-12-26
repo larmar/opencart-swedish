@@ -2,18 +2,18 @@
 // Locale
 $_['code']                  = 'sv';
 $_['direction']             = 'ltr';
-$_['date_format_short']     = 'Y/m/d';
+$_['date_format_short']     = 'Y-m-d';
 $_['date_format_long']      = 'l dS F Y';
 $_['time_format']           = 'h:i:s A';
-$_['decimal_point']         = ',';
-$_['thousand_point']        = '.';
+$_['decimal_point']         = '.';
+$_['thousand_point']        = ' ';
 
 // Text
 $_['text_home']             = 'Hem';
 $_['text_yes']              = 'Ja';
 $_['text_no']               = 'Nej';
 $_['text_none']             = ' --- Ingen --- ';
-$_['text_select']           = ' --- Välj --- ';
+$_['text_select']           = ' --- Var god välj --- ';
 $_['text_all_zones']        = 'Alla zoner';
 $_['text_pagination']       = 'Visar {start} till {end} av {total} ({pages} sidor)';
 $_['text_separator']        = ' &raquo; ';
@@ -25,12 +25,12 @@ $_['button_continue']       = 'Fortsätt';
 $_['button_cart']           = 'Köp';
 $_['button_compare']        = 'Jämför';
 $_['button_wishlist']       = 'Lägg till i önskelistan';
-$_['button_checkout']       = 'Kassan';
+$_['button_checkout']       = 'Till kassan';
 $_['button_confirm']        = 'Bekräfta';
-$_['button_coupon']         = 'Lös in';
+$_['button_coupon']         = 'Aktivera rabattkupong';
 $_['button_delete']         = 'Ta bort';
 $_['button_download']       = 'Ladda ner';
-$_['button_edit']           = 'Ändra';
+$_['button_edit']           = 'Redigera';
 $_['button_filter']         = 'förfina sökning';
 $_['button_new_address']    = 'Ny adress';
 $_['button_change_address'] = 'Ändra adress';
@@ -41,15 +41,15 @@ $_['button_update']         = 'Uppdatera';
 $_['button_remove']         = 'Ta bort';
 $_['button_reorder']        = 'Lägg i varukorg';
 $_['button_return']         = 'Tillbaka';
-$_['button_shopping']       = 'Fortsätt shoppa';
+$_['button_shopping']       = 'Fortsätt handla';
 $_['button_search']         = 'Sök';
 $_['button_shipping']       = 'Lägg till frakt';
-$_['button_guest']          = 'Gästkassa';
+$_['button_guest']          = 'Handla som gäst';
 $_['button_view']           = 'Visa';
-$_['button_voucher']        = 'Lös in';
+$_['button_voucher']        = 'Använd presentkort';
 $_['button_upload']         = 'Ladda upp fil';
-$_['button_reward']         = 'Lös in poäng';
-$_['button_quote']          = 'Visa frakt';
+$_['button_reward']         = 'Använd poäng';
+$_['button_quote']          = 'Beräkna frakt';
 
 // Error
 $_['error_upload_1']        = 'Fel: The uploaded file exceeds the upload_max_filesize directive in php.ini!';

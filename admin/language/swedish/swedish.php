@@ -1,12 +1,12 @@
 <?php
 // Locale
-$_['code']                          = 'se';
+$_['code']                          = 'sv';
 $_['direction']                     = 'ltr';
-$_['date_format_short']             = 'd/m/Y';
+$_['date_format_short']             = 'Y-m-d';
 $_['date_format_long']              = 'l dS F Y';
 $_['time_format']                   = 'h:i:s A';
 $_['decimal_point']                 = '.';
-$_['thousand_point']                = ',';
+$_['thousand_point']                = ' ';
 
 // Text
 $_['text_yes']                      = 'Ja';
@@ -76,10 +76,10 @@ $_['button_add_profile']            = 'Lägg till profil';
 $_['tab_address']                   = 'Adress';
 $_['tab_admin']                     = 'Admin';
 $_['tab_attribute']                 = 'Attribut';
-$_['tab_customer']                  = 'Kunduppgifter';
+$_['tab_customer']                  = 'Kunddetaljer';
 $_['tab_data']                      = 'Data';
 $_['tab_design']                    = 'Design';
-$_['tab_discount']                  = 'Rabatt';
+$_['tab_discount']                  = 'Mängdrabatt';
 $_['tab_general']                   = 'Allm&auml;nt';
 $_['tab_history']                   = 'Historia';
 $_['tab_fraud']                     = 'Bedrägeri';
@@ -91,22 +91,22 @@ $_['tab_image']                     = 'Bild';
 $_['tab_option']                    = 'Alternativ';
 $_['tab_server']                    = 'Server';
 $_['tab_store']                     = 'Butik';
-$_['tab_special']                   = 'Extrapris';
+$_['tab_special']                   = 'Kampanj';
 $_['tab_local']                     = 'Lokalt';
 $_['tab_mail']                      = 'E-post';
 $_['tab_marketplace_links']         = 'Marknads Länkar';
 $_['tab_module']                    = 'Modul';
-$_['tab_order']                     = 'Order';
+$_['tab_order']                     = 'Orderdetaljer';
 $_['tab_payment']                   = 'Betalningsdetaljer';
 $_['tab_product']                   = 'Produkter';
 $_['tab_return']                    = 'Returdetaljer';
 $_['tab_reward']                    = 'Lojalitetspoäng';
 $_['tab_profile']                   = 'Profiler';
-$_['tab_shipping']                  = 'Fraktadress';
-$_['tab_total']                     = 'Summor';
+$_['tab_shipping']                  = 'Fraktdetaljer';
+$_['tab_total']                     = 'Totalsumma';
 $_['tab_transaction']               = 'Transaktioner';
-$_['tab_voucher']                   = 'kuponger';
-$_['tab_voucher_history']           = 'Rabatthistorik';
+$_['tab_voucher']                   = 'Presentkort';
+$_['tab_voucher_history']           = 'Presentkortshistorik';
 $_['tab_price']                     = 'Pris';
 
 // Error
