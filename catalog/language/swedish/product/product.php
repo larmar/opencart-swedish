@@ -26,9 +26,8 @@ $_['text_upload']       = 'Din fil har laddats upp!';
 $_['text_wait']         = 'Vänligen vänta!';
 $_['text_tags']         = 'Tags:';
 $_['text_error']        = 'Produkten kunde inte hittas!';
-
-// Entry
 $_['text_payment_profile'] = 'Betal Profiler';
+
 $_['text_trial_description'] = '%s varje %d %s (s) för %d betalning (ar) sedan';
 $_['text_payment_description'] = '%s varje %d %s (s) för %d betalning (ar)';
 $_['text_payment_until_canceled_description'] = '%s varje %d %s (s) tills avslutad';
@@ -37,6 +36,8 @@ $_['text_week'] = 'vecka';
 $_['text_semi_month'] = 'två gånger per månad';
 $_['text_month'] = 'månad';
 $_['text_year'] = 'år';
+
+// Entry
 $_['entry_name']        = 'Ditt namn:';
 $_['entry_review']      = 'Din recension:';
 $_['entry_rating']      = 'Betyg:';
