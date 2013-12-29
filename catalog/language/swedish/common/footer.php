@@ -2,7 +2,7 @@
 // Text
 $_['text_information']  = 'Information';
 $_['text_service']      = 'Kundtjänst';
-$_['text_extra']        = 'Extra';
+$_['text_extra']        = 'Övrigt';
 $_['text_contact']      = 'Kontakta oss';
 $_['text_return']       = 'Reklamation/Retur';
 $_['text_sitemap']      = 'Sajtkarta';
